@@ -50,6 +50,10 @@ ani = animation.FuncAnimation(fig, simPoints, simData, blit=False,\
      interval=10, repeat=True)
 plt.show()
 
+<<<<<<< HEAD
 
 def NewChanges():
     return 0
+=======
+#New code changes
+>>>>>>> fef0cdee96582297372b958504914973334f924f
